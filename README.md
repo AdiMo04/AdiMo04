@@ -1,6 +1,6 @@
-<video width="320" height="240" controls>
-  <source src="" type="video/mp4">
-</video>
+<div align="center">
+  <img src="https://github.com/AdiMo04/AdiMo04/blob/main/Github%20Banner.gif" width="800" alt="logo">
+</div>
 <h1 align="center">Heyy !! It's me AdiMo04</h1>
 <h3 align="center">BE | IT | AIT,PUNE</h3>
 
