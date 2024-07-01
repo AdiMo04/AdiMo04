@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AdiMo04/AdiMo04/blob/main/undraw_programmer_re_owql.svg" width = "200" alt="logo">
+  <img src="https://github.com/AdiMo04/AdiMo04/blob/main/Github%20Banner.svg" width = "200" alt="logo">
 </div>
 <h1 align="center">Heyy !! It's me AdiMo04 :)</h1>
 <h3 align="center">BE | IT | AIT, PUNE</h3>
