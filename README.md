@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/AdiMo04/AdiMo04/blob/main/Github%20Banner.gif" width="800" alt="logo">
+  <img src="https://github.com/AdiMo04/AdiMo04/blob/main/undraw_programmer_re_owql.svg" width = "200" alt="logo">
 </div>
-<h1 align="center">Heyy !! It's me AdiMo04</h1>
-<h3 align="center">BE | IT | AIT,PUNE</h3>
+<h1 align="center">Heyy !! It's me AdiMo04 :)</h1>
+<h3 align="center">BE | IT | AIT, PUNE</h3>
 
-<img align="right" alt = "coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt = "coding" width="300" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 - Mail Id: **aditimore0800@gmail.com**
 
