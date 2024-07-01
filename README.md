@@ -1,9 +1,12 @@
+<video width="320" height="240" controls>
+  <source src="" type="video/mp4">
+</video>
 <h1 align="center">Heyy !! It's me AdiMo04</h1>
 <h3 align="center">BE | IT | AIT,PUNE</h3>
 
 <img align="right" alt = "coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
-- 📫 How to reach me **aditimore0800@gmail.com**
+- Mail Id: **aditimore0800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
